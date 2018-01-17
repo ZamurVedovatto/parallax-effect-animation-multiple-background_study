@@ -14,7 +14,7 @@ css
 **what I learn**
 - parallax effect animation
 - css3 multiple backgroung capabilities
-- CSS selectors
+- css selectors
 
 
 :+1:
